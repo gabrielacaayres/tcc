@@ -1,5 +1,6 @@
 [aborrecente]
 [anacrônico]
+[arrombado]
 [besta]
 [bizarro]
 [bobo]
