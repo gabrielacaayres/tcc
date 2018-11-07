@@ -4,6 +4,8 @@ textblob
 tweepy
 wordcloud
 matplotlib
-importlib
 nltk
-beautifulsoup
+#python 3.x has importlib natively. Using pip to install it will break.
+#importlib
+#beautifulsoup installation for python3 is beautifulsoup4
+beautifulsoup4
