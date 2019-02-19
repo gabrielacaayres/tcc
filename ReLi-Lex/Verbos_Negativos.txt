@@ -37,3 +37,4 @@
 [perder]
 [prolongar]
 [revoltar]
+[cancelar]

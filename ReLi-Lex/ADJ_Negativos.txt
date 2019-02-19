@@ -6,6 +6,7 @@
 [bobo]
 [burro]
 [cansativo]
+[cansado]
 [chato]
 [chocante]
 [chulo]
@@ -77,6 +78,7 @@
 [péssimo]
 [piegas]
 [piorar]
+[pior]
 [plana]
 [pobre]
 [pomposo]
@@ -104,6 +106,8 @@
 [vazio]
 [violento]
 [volúvel]
+[nojo]
+[rejeitado]
 
 
 Apenas no âmbito cultural
