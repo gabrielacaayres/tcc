@@ -108,6 +108,7 @@
 [volúvel]
 [nojo]
 [rejeitado]
+[raiva]
 
 
 Apenas no âmbito cultural
